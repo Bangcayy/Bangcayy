@@ -1,8 +1,8 @@
-# It's Me Cayy
+# It's Me **Cayy** <span style="color: #00FF00; text-shadow: 0 0 10px #00FF00;">🖤</span>
 ![Profile Photo](foto.jpg)
 
 ### Script Kidde And ?
-> "We Are Not Criminal"
+> "We Are Not Criminal" <span style="color: #FF0000; text-shadow: 0 0 10px #FF0000;">💻</span>
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ## 📈 GitHub Activity
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Bangcayy&bg_color=0d1117&color=ff073a&line=007bff&point=00ff00)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Bangcayy&bg_color=0d1117&color=ff073a&line=007bff&point=00ff00)
 
 ---
 
@@ -29,4 +29,4 @@
 
 ---
 
-> It's Me **Cayy**
+> It's Me **Cayy** <span style="color: #00FF00; text-shadow: 0 0 10px #00FF00;">👨‍💻</span>
