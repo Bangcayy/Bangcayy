@@ -1,8 +1,8 @@
-# It's Me **Cayy** <span style="color: #00FF00; text-shadow: 0 0 10px #00FF00;">🖤</span>
+# It's Me **Cayy** <span style="color: #00FF00; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00;"></span>
 ![Profile Photo](foto.jpg)
 
 ### Script Kidde And ?
-> "We Are Not Criminal" <span style="color: #FF0000; text-shadow: 0 0 10px #FF0000;">💻</span>
+> "We Are Not Criminal" <span style="color: #FF0000; text-shadow: 0 0 10px #FF0000, 0 0 20px #FF0000, 0 0 30px #FF0000;"></span>
 
 ---
 
@@ -29,4 +29,4 @@
 
 ---
 
-> It's Me **Cayy** <span style="color: #00FF00; text-shadow: 0 0 10px #00FF00;">👨‍💻</span>
+> It's Me **Cayy** <span style="color: #00FF00; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00;"></span>
