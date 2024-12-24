@@ -15,8 +15,8 @@
 
 ---
 
-## 📈 GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Bangcayy&bg_color=0d1117&color=ff073a&line=007bff&point=00ff00)
+## 📈 Aktivitas GitHub
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Bangcayy&bg_color=0d1117&color=ff073a&line=007bff&point=00ff00&area=true)
 
 ---
 
