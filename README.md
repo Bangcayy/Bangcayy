@@ -15,11 +15,6 @@
 
 ---
 
-## 📈 Aktivitas GitHub
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Bangcayy&bg_color=0d1117&color=ff073a&line=007bff&point=00ff00&area=true)
-
----
-
 ## 🏆 Achievements
 - **Public Repos**: ![Repos](https://img.shields.io/github/followers/Bangcayy?style=social&color=ff073a)
 - **Followers**: ![Followers](https://img.shields.io/github/followers/Bangcayy?style=social&color=ff073a)
